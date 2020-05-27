@@ -49,7 +49,7 @@ query REPOS {
 See the`gatsby-source-graphql` plugin resolver in [gatsby-config.js](gatsby-config.js) for configuration detail. The only 
 really interesting thing there is that it expects the GitHub auth token to be present in the env (see quick start above).
 
-I used the [Tailwind CSS]((https://tailwindcss.com/)) utility framework for styling. I use Tailwind often
+I used the [Tailwind CSS]((https://tailwindcss.com/)) utility framework for styling. I use Tailwind often as
 it's unopinionated and gives you a lot without having to write any custom CSS. 
 
 Tailwind is integrated by [PostCSS](https://postcss.org/). See: [postcss.config.js](postcss.config.js). Tailwind _does_ 
