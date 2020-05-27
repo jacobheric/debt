@@ -61,4 +61,5 @@ The Graphql query string is defined inline and the results are fetched in real t
 The results are displayed in a simple, responsive CSS flexbox using Tailwind.    
 
 ## TODO
-* add tests via Jest: https://gatsby.dev/unit-testing     
+* add tests via Jest: https://gatsby.dev/unit-testing
+* add husky precommit hooks for linting and testing
